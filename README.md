@@ -57,4 +57,4 @@ To generate the analysis:
 The notebook uses pandas for data manipulation and seaborn/matplotlib for visualization. Example outputs are contained in the `plots\` folder.
 
 ## Contact
-You can submit inquires to kunal@anthropic.com or atamkin@anthropic.com. 
+You can submit inquires to kunal@anthropic.com or atamkin@anthropic.com. We invite researchers to provide input on potential future data releases using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfDEdY-mT5lcXPaDSv-0Ci1rSXGlbIJierxkUbNB7_07-kddw/viewform?usp=dialog).
