@@ -1,3 +1,7 @@
+---
+license: mit
+pretty_name: EconomicIndex
+---
 ## Overview
 This directory contains O*NET task mapping and automation vs. augmentation data from "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations." The data and provided analysis are described below.
 
