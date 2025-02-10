@@ -3,7 +3,12 @@ license: mit
 pretty_name: EconomicIndex
 tags:
 - text
-viewer: false
+viewer: true
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: "onet_task_mappings.csv"
 ---
 ## Overview
 This directory contains O*NET task mapping and automation vs. augmentation data from "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations." The data and provided analysis are described below.
