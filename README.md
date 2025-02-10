@@ -1,9 +1,14 @@
 ---
 license: mit
 pretty_name: EconomicIndex
+tags:
+- text
+viewer: false
 ---
 ## Overview
-This directory contains O*NET task mapping and automation vs. augmentation data from "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations." The data and provided analysis are described below.
+This directory contains O*NET task mapping and automation vs. augmentation data from "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations." The data, provided analysis, and preliminary plots are described below.
+
+**Please see our [blog post](https://www.anthropic.com/news/the-anthropic-economic-index) and [paper](https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf) for further visualizations and complete analysis.**
 
 ## Data
 
