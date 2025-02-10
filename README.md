@@ -6,7 +6,7 @@ tags:
 viewer: false
 ---
 ## Overview
-This directory contains O*NET task mapping and automation vs. augmentation data from "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations." The data, provided analysis, and preliminary plots are described below.
+This directory contains O*NET task mapping and automation vs. augmentation data from "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations." The data and provided analysis are described below.
 
 **Please see our [blog post](https://www.anthropic.com/news/the-anthropic-economic-index) and [paper](https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf) for further visualizations and complete analysis.**
 
@@ -34,26 +34,16 @@ The `plots.ipynb` notebook provides visualizations and analysis including:
 - Task distribution across occupational categories
 - Comparison with BLS employment data
 
-![Task Distribution](plots/task_distribution.png)
-
 ### Occupational Analysis  
 - Top occupations by conversation percentage
 - Occupational category distributions
 - Occupational category distributions compared to BLS employment data
 
-![Occupations Distribution](plots/occupations_distribution.png)
-![Occupational Category Distribution](plots/occupational_category_distribution.png)
-![Occupational Category Distribution (BLS)](plots/occupational_category_distribution_bls.png)
-
 ### Wage Analysis
 - Occupational usage by wage
 
-![Wage Distribution](plots/wage_distribution.png)
-
 ### Automation vs Augmentation Analysis
 - Distribution across interaction modes
-
-![Automation vs Augmentation](plots/automation_vs_augmentation.png)
 
 ## Usage
 To generate the analysis:
